@@ -5,6 +5,7 @@ public class Student {
     private int id;
     private String name;
     private String department;
+    int age;
 
     public Student(int id, String name, String department) {
         this.id = id;
